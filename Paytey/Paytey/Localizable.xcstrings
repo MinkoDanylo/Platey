@@ -1,0 +1,918 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "common.cancel": {
+      "comment": "Cancel button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "common.clear": {
+      "comment": "Clear button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear"
+          }
+        }
+      }
+    },
+    "common.continue": {
+      "comment": "Primary button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        }
+      }
+    },
+    "common.edit": {
+      "comment": "Edit button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit"
+          }
+        }
+      }
+    },
+    "common.name": {
+      "comment": "Name field label",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "intro.ai.subtitle": {
+      "comment": "Intro page 2 text",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calories, protein, carbs and fat are estimated for you in seconds."
+          }
+        }
+      }
+    },
+    "intro.ai.title": {
+      "comment": "Intro page 2 title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI does the math"
+          }
+        }
+      }
+    },
+    "intro.getStarted": {
+      "comment": "Intro button on last page",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get Started"
+          }
+        }
+      }
+    },
+    "intro.next": {
+      "comment": "Intro button to go to next page",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next"
+          }
+        }
+      }
+    },
+    "intro.pageIndicator": {
+      "comment": "VoiceOver label for intro page dots",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Page %1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "intro.skip": {
+      "comment": "Skip intro button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skip"
+          }
+        }
+      }
+    },
+    "intro.snap.subtitle": {
+      "comment": "Intro page 1 text",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Take a photo of what you eat — no weighing or searching."
+          }
+        }
+      }
+    },
+    "intro.snap.title": {
+      "comment": "Intro page 1 title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snap your meal"
+          }
+        }
+      }
+    },
+    "intro.track.subtitle": {
+      "comment": "Intro page 3 text",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See your daily goal and what’s left at a glance."
+          }
+        }
+      }
+    },
+    "intro.track.title": {
+      "comment": "Intro page 3 title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stay on track"
+          }
+        }
+      }
+    },
+    "log.camera.hint": {
+      "comment": "Camera viewfinder hint",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fit the whole meal in the frame"
+          }
+        }
+      }
+    },
+    "log.camera.library": {
+      "comment": "Open photo library",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Library"
+          }
+        }
+      }
+    },
+    "log.camera.paste": {
+      "comment": "Switch to paste mode",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste"
+          }
+        }
+      }
+    },
+    "log.mode.paste": {
+      "comment": "Log mode switch",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PASTE"
+          }
+        }
+      }
+    },
+    "log.mode.photo": {
+      "comment": "Log mode switch",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PHOTO"
+          }
+        }
+      }
+    },
+    "log.paste.analyze": {
+      "comment": "Primary button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Analyze meal"
+          }
+        }
+      }
+    },
+    "log.paste.fromClipboard": {
+      "comment": "Button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste from clipboard"
+          }
+        }
+      }
+    },
+    "log.paste.subtitle": {
+      "comment": "Paste screen description",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste or type what you ate — a recipe, a menu item or a message. We’ll estimate the calories."
+          }
+        }
+      }
+    },
+    "log.paste.tipBody": {
+      "comment": "Tip card text",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add portions for better accuracy, e.g. “2 eggs, 1 slice toast, 200 ml latte”."
+          }
+        }
+      }
+    },
+    "log.paste.tipTitle": {
+      "comment": "Tip card title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tip"
+          }
+        }
+      }
+    },
+    "log.paste.title": {
+      "comment": "Paste screen title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste a meal"
+          }
+        }
+      }
+    },
+    "log.review.addToMeal": {
+      "comment": "Primary button, e.g. Add to Lunch · 620 kcal",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to %1$@ · %2$lld kcal"
+          }
+        }
+      }
+    },
+    "log.review.confidence": {
+      "comment": "AI confidence badge",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI estimate · %lld%% confident"
+          }
+        }
+      }
+    },
+    "log.review.detectedItems": {
+      "comment": "Section header",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DETECTED ITEMS"
+          }
+        }
+      }
+    },
+    "log.review.retake": {
+      "comment": "Retake photo button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retake"
+          }
+        }
+      }
+    },
+    "login.continueWithGoogle": {
+      "comment": "Sign-in button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue with Google"
+          }
+        }
+      }
+    },
+    "login.legal": {
+      "comment": "Legal note under sign-in buttons",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "By continuing you agree to our Terms of Service and Privacy Policy."
+          }
+        }
+      }
+    },
+    "login.signInWithApple": {
+      "comment": "Sign-in button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign in with Apple"
+          }
+        }
+      }
+    },
+    "login.subtitle": {
+      "comment": "Login screen description",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Take a photo of your meal and we’ll count calories and macros for you."
+          }
+        }
+      }
+    },
+    "login.title": {
+      "comment": "Login screen headline",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snap your food.\nKnow your calories."
+          }
+        }
+      }
+    },
+    "macro.carbs": {
+      "comment": "Macronutrient",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carbs"
+          }
+        }
+      }
+    },
+    "macro.fat": {
+      "comment": "Macronutrient",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fat"
+          }
+        }
+      }
+    },
+    "macro.progress": {
+      "comment": "Macro eaten / goal, e.g. 82 / 140 g",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld / %2$lld g"
+          }
+        }
+      }
+    },
+    "macro.protein": {
+      "comment": "Macronutrient",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protein"
+          }
+        }
+      }
+    },
+    "meal.breakfast": {
+      "comment": "Meal type",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Breakfast"
+          }
+        }
+      }
+    },
+    "meal.dinner": {
+      "comment": "Meal type",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dinner"
+          }
+        }
+      }
+    },
+    "meal.lunch": {
+      "comment": "Meal type",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lunch"
+          }
+        }
+      }
+    },
+    "meal.snack": {
+      "comment": "Meal type",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snack"
+          }
+        }
+      }
+    },
+    "onboarding.health.connect.subtitle": {
+      "comment": "Option description",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sync weight and activity automatically"
+          }
+        }
+      }
+    },
+    "onboarding.health.connect.title": {
+      "comment": "Option title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect Apple Health"
+          }
+        }
+      }
+    },
+    "onboarding.health.footer": {
+      "comment": "Footnote under Continue button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can change this later in Settings"
+          }
+        }
+      }
+    },
+    "onboarding.health.manual.subtitle": {
+      "comment": "Option description",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type in your weight yourself"
+          }
+        }
+      }
+    },
+    "onboarding.health.manual.title": {
+      "comment": "Option title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter manually"
+          }
+        }
+      }
+    },
+    "onboarding.health.recommended": {
+      "comment": "Badge on the recommended option",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RECOMMENDED"
+          }
+        }
+      }
+    },
+    "onboarding.health.subtitle": {
+      "comment": "Onboarding health step description",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect Apple Health to import your weight automatically, or enter it yourself."
+          }
+        }
+      }
+    },
+    "onboarding.health.title": {
+      "comment": "Onboarding health step title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set up your profile"
+          }
+        }
+      }
+    },
+    "onboarding.step": {
+      "comment": "Onboarding progress, e.g. 1/2",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "onboarding.weight.subtitle": {
+      "comment": "Onboarding weight step description",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We use it to calculate your daily calorie goal."
+          }
+        }
+      }
+    },
+    "onboarding.weight.title": {
+      "comment": "Onboarding weight step title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s your weight?"
+          }
+        }
+      }
+    },
+    "search.placeholder": {
+      "comment": "Search field placeholder",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search foods"
+          }
+        }
+      }
+    },
+    "settings.logOut": {
+      "comment": "Destructive button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log Out"
+          }
+        }
+      }
+    },
+    "settings.signedInWithApple": {
+      "comment": "Account provider",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Signed in with Apple"
+          }
+        }
+      }
+    },
+    "settings.title": {
+      "comment": "Settings screen title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "settings.version": {
+      "comment": "App version, e.g. Version 1.0.0",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version %@"
+          }
+        }
+      }
+    },
+    "settings.weight": {
+      "comment": "Settings row",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weight"
+          }
+        }
+      }
+    },
+    "tab.log": {
+      "comment": "Tab bar item",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log"
+          }
+        }
+      }
+    },
+    "tab.profile": {
+      "comment": "Tab bar item",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profile"
+          }
+        }
+      }
+    },
+    "tab.today": {
+      "comment": "Tab bar item",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        }
+      }
+    },
+    "today.exercise": {
+      "comment": "Calorie summary label",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercise"
+          }
+        }
+      }
+    },
+    "today.food": {
+      "comment": "Calorie summary label",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Food"
+          }
+        }
+      }
+    },
+    "today.goal": {
+      "comment": "Calorie summary label",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goal"
+          }
+        }
+      }
+    },
+    "today.kcalLeft": {
+      "comment": "Under remaining calories in ring",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kcal left"
+          }
+        }
+      }
+    },
+    "today.meals": {
+      "comment": "Meals section header",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meals"
+          }
+        }
+      }
+    },
+    "today.recommendedRange": {
+      "comment": "Suggested calories for an empty meal",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recommended %1$lld–%2$lld kcal"
+          }
+        }
+      }
+    },
+    "today.title": {
+      "comment": "Today screen title",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        }
+      }
+    },
+    "unit.gramsAmount": {
+      "comment": "Grams amount, e.g. 38 g",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld g"
+          }
+        }
+      }
+    },
+    "unit.kcal": {
+      "comment": "Kilocalories unit",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kcal"
+          }
+        }
+      }
+    },
+    "unit.kcalAmount": {
+      "comment": "Calories amount, e.g. 150 kcal",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld kcal"
+          }
+        }
+      }
+    },
+    "unit.kg": {
+      "comment": "Kilograms unit",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kg"
+          }
+        }
+      }
+    },
+    "unit.lb": {
+      "comment": "Pounds unit",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lb"
+          }
+        }
+      }
+    },
+    "unit.weightKg": {
+      "comment": "Weight in kilograms, e.g. 72.4 kg",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ kg"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
